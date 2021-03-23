@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="movieNames">
+        <item>Disney\'s Raya And The Last Dragon</item>
+        <item>Nomadland</item>
+        <item>Promising Young Woman</item>
+        <item>Godzilla vs Kong</item>
+        <item>Ainbo</item>
+        <item>Tom &amp; Jerry</item>
+        <item>Wrong Turn</item>
+        <item>Chaos Walking</item>
+        <item>Music</item>
+        <item>Twist</item>
+    </string-array>
+
+    <string-array name="movieTimes">
+        <item>10:00-11:54 | 1 hr 54 mins</item>
+        <item>11:50-13:28 | 1 hr 48 mins</item>
+        <item>11:30-13:24 | 1 hr 54 mins</item>
+        <item>10:10-12:03 | 1 hr 53 mins</item>
+        <item>14:20-15:45 | 1 hr 25 mins</item>
+        <item>14:00-15:41 | 1 hr 41 mins</item>
+        <item>11:00-12:50 | 1 hr 50 mins</item>
+        <item>10:05-11:54 | 1 hr 49 mins</item>
+        <item>12:25-14:13 | 1 hr 48 mins</item>
+        <item>14:45-16:17 | 1 hr 32 mins</item>
+    </string-array>
+     <string-array name="ageRatings">
+         <item>PG</item>
+         <item>M18</item>
+         <item>NC16</item>
+         <item>PG13</item>
+         <item>PG</item>
+         <item>PG</item>
+         <item>M18</item>
+         <item>PG13</item>
+         <item>PG13</item>
+         <item>PG13</item>
+         <item>NC16</item>
+     </string-array>
+    <integer-array name="movieCovers">
+        <item>@drawable/disney</item>
+        <item>@drawable/normadland</item>
+        <item>@drawable/pym</item>
+        <item>@drawable/godzillavskong</item>
+        <item>@drawable/ainbo</item>
+        <item>@drawable/tomjerry</item>
+        <item>@drawable/turn</item>
+        <item>@drawable/chaos</item>
+        <item>@drawable/music</item>
+        <item>@drawable/twist</item>
+    </integer-array>
+    <string-array name="videoIDs">
+        <item>FKTV8KQWYWc</item>
+        <item>6sxCFZ8_d84</item>
+        <item>6KWp9F5PiaA</item>
+        <item>waFXDEgHNmE</item>
+        <item>QC02buF1Rww</item>
+        <item>mJoX4v3qGa0</item>
+        <item>ccaNMcPqpQ0</item>
+        <item>vWgGkpp5ReU</item>
+        <item>zhqZiHlItmI</item>
+        <item>61dPR57MLAo</item>
+    </string-array>
+</resources>
